@@ -1,2 +1,2 @@
-st=input()
-print(len(st)-st.count(" "))
+z=input()
+print(len(z)-z.count(" "))
