@@ -1,2 +1,2 @@
-a=input()
-print(len(a)-a.count(" "))
+string=input()
+print(len(string)-string.count(" "))
